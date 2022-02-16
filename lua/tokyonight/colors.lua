@@ -13,7 +13,8 @@ function M.setup(config)
 
   colors = {
     none = "NONE",
-    bg_dark = "#1f2335",
+    --bg_dark = "#1f2335",
+    bg_dark = "#070e32",    
     bg = "#070e32",
     bg_highlight = "#292e42",
     terminal_black = "#414868",
